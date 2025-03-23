@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Environment
+.env/
+.venv/
+env/
+venv/
+
+# Model weights
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+
+# Hugging Face model weights
+yelp_sentiment_model/pytorch_model.bin
+
+# Streamlit logs
+.streamlit/
+
+results/
