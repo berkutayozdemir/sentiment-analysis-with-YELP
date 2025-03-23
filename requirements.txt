@@ -7,6 +7,6 @@ matplotlib
 seaborn
 nltk
 datasets
-sting
+string
 re
 numpy
